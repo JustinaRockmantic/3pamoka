@@ -1,0 +1,10 @@
+img {
+    display: inline-block;
+  }
+  .test
+  {
+    display: inline-block;
+    padding-block: 10px;
+    margin: 10px;
+    background-color: aqua;
+  }
